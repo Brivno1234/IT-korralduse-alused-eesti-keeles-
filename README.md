@@ -1,4 +1,4 @@
-
+```html 
 <!doctype html>
 <html lang="et">
 <head>
@@ -27,3 +27,4 @@ th{background:#183b67;color:white}td,th{border:1px solid #cbd3df;padding:8px;ver
 <section id="kommunikatsioon"><h2>Sidusgrupp ja kommunikatsioon</h2><table><tr><th>Sidusgrupp</th><th>Huvi</th><th>Mõju</th><th>Strateegia</th></tr><tr><td>Juhtkond</td><td>Kõrge</td><td>Kõrge</td><td>Halda lähedalt</td></tr><tr><td>IT-meeskond</td><td>Kõrge</td><td>Kõrge</td><td>Igapäevane koostöö</td></tr><tr><td>Töötajad</td><td>Kõrge</td><td>Keskmine</td><td>Hoia informeerituna</td></tr><tr><td>ServerPro</td><td>Keskmine</td><td>Kõrge</td><td>Hoia rahulolevana</td></tr><tr><td>Kliendid</td><td>Madal</td><td>Keskmine</td><td>Jälgi</td></tr></table></section>
 <section id="lessons"><h2>Lessons Learned</h2><p>Hästi läks planeerimine, Gantt, tarnija suhtlus, töötajate teavitamine ja testimine. Halvasti läks tarneaeg, Wi-Fi leviala ühes kontoris, juhendite lugemine ja eelarve reserv. Järgmine kord tellime seadmed varem, mõõdame leviala enne eelarvet ja jätame rohkem aega testimiseks.</p></section>
 </body></html>
+```
