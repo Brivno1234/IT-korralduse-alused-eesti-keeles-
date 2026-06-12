@@ -1,4 +1,4 @@
-[Projekti_veebileht_IVAN_SEREDA_TITpv24_site.html](https://github.com/user-attachments/files/28871146/Projekti_veebileht_IVAN_SEREDA_TITpv24_site.html)
+
 <!doctype html>
 <html lang="et">
 <head>
